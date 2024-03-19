@@ -1,0 +1,17 @@
+---
+title: "My Project"
+author: "Jane Doe"
+format: html
+---
+
+## Reporting on ice rinks in Montreal
+
+This is a report on the state of winter in Quebec.
+
+
+```{r}
+#| message: false
+#| warning: false
+#| echo: false
+source("plot.r")
+```
